@@ -37,3 +37,5 @@
 
 
 На картинках скрин работы терминала и схеиа из интернета
+![Terminal](https://github.com/13CHIP13/a-simple-CAN-logger-ESP32/blob/main/Terminal.jpg)
+![Схема](https://github.com/13CHIP13/a-simple-CAN-logger-ESP32/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.jpg)
